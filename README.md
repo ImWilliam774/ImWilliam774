@@ -1,7 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm William! <br/><a href="https://github.com/ImWilliam774">Programmer</a>, <a href="https://www.linkedin.com/in/william-emery-0b8827285/">Cybersecurity Professional</a>, 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+ 
+<h2>📝 Certifications</h2>
+  
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: (https://www.linkedin.com/in/william-emery-0b8827285/)
 
 <!--
-**ImWilliam774/ImWilliam774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
